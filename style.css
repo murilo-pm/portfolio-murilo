@@ -179,7 +179,7 @@ a:hover{
 
 }
 
-/* til para pegar todos os itens pertencentes ao menu */
+/*til para pegar todos os itens pertencentes ao menu*/
 #toggle:checked ~ .menu{
     box-shadow: 0px 0px 0px 100vmax #ffffff;
     z-index: 1;
